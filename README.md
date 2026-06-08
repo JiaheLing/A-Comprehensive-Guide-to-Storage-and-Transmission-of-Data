@@ -58,6 +58,7 @@ I would like to thank the authors of the following books, which strongly shaped 
 * **Principles of Distributed Database Systems** by M. Tamer Özsu and Patrick Valduriez
 * **Distributed Systems** by Maarten van Steen and Andrew S. Tanenbaum
 * **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** by Martin Kleppmann
+
 I would also like to thank **Dr. Steve Tarzia** for his YouTube courses on **Computer Networks** and **Operating Systems**. His lectures helped me develop clearer intuition for systems concepts and inspired parts of the way I organize and explain these notes.
 
 Finally, I am grateful to the open-source community and to all educators who make high-quality systems knowledge accessible to students and engineers around the world.
