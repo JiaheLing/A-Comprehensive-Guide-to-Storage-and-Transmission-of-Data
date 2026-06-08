@@ -20,44 +20,33 @@ This book is not meant to replace the original textbooks or courses. Instead, it
 
 ### Chapter 1: Computer Networks
 
-1.1 Introduction
-1.2 Transport Layer
-1.3 Network Layer: Data Plane
-1.4 Network Layer: Control Plane
-1.5 Link Layer and LANs
-1.6 Wireless and Mobile Networks
+- 1.1 Introduction
+- 1.2 Transport Layer
+- 1.3 Network Layer: Data Plane
+- 1.4 Network Layer: Control Plane
+- 1.5 Link Layer and LANs
+- 1.6 Wireless and Mobile Networks
 
 ### Chapter 2: Distributed Database Systems
 
-2.1 Introduction
-2.2 TBD
+- 2.1 Introduction
+- 2.2 TBD
 
 ### Chapter 3: Distributed Systems
 
-3.1 Introduction
-3.2 TBD
+- 3.1 Introduction
+- 3.2 TBD
 
 ### Chapter 4: Operating Systems
 
-4.1 Introduction
-4.2 TBD
+- 4.1 Introduction
+- 4.2 TBD
 
 ### Chapter 5: Data-Intensive Applications
 
-5.1 Introduction
-5.2 TBD
+- 5.1 Introduction
+- 5.2 TBD
 
-## Who This Book Is For
-
-This book is for:
-
-* students learning systems for machine learning infrastructure;
-* machine learning engineers who want stronger infrastructure knowledge;
-* backend engineers who want to move toward ML platforms;
-* self-learners preparing for ML infrastructure roles;
-* anyone interested in how modern ML systems are built and operated.
-
-Some background in programming, basic computer science, and machine learning is helpful, but the book tries to explain concepts from first principles whenever possible.
 
 ## Acknowledgements
 
