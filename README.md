@@ -64,18 +64,7 @@ Finally, I am grateful to the open-source community and to all educators who mak
 
 ## Contributing
 
-This is an open-source learning project. Contributions are welcome.
-
-You can help by:
-
-* fixing typos or unclear explanations;
-* adding diagrams or examples;
-* improving code snippets;
-* suggesting better references;
-* opening issues for confusing sections;
-* contributing new notes related to ML infrastructure, distributed systems, networking, databases, operating systems, or data-intensive applications.
-
-Please keep contributions beginner-friendly, technically accurate, and focused on building intuition.
+This is an open-source learning project. Contributions are welcome. Please keep contributions beginner-friendly, technically accurate, and focused on building intuition.
 
 ## Disclaimer
 
